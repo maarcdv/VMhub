@@ -1,5 +1,7 @@
 # VMHub
 
+![VMHub banner](./frontend/banner-1.jpeg)
+
 Sistema de gestión centralizada de máquinas virtuales VirtualBox. Permite vincular VMs desde una interfaz web, ver su rendimiento a nivel de hardware (CPU, RAM, disco) y acceder a una terminal shell remota para ejecutar comandos.
 
 Proyecto Intermodular — Grado Medio SMX.
@@ -40,7 +42,7 @@ Proyecto Intermodular — Grado Medio SMX.
 
 ## Estado del proyecto
 
-🚧 En desarrollo — Proyecto Intermodular en curso.
+En desarrollo — Proyecto Intermodular en curso.
 
 | Fase | Contenido | Estado |
 |---|---|---|
