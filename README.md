@@ -1,5 +1,3 @@
-# VMHub
-
 ![VMHub banner](./frontend/banner-1.jpeg)
 
 Sistema de gestión centralizada de máquinas virtuales VirtualBox. Permite vincular VMs desde una interfaz web, ver su rendimiento a nivel de hardware (CPU, RAM, disco) y acceder a una terminal shell remota para ejecutar comandos.
